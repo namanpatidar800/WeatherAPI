@@ -147,7 +147,7 @@ import { Box, Grid } from '@mui/material';
 
 Visit the live demo of this project:
 
-🔗 **[Live Demo Link](#)** *https://weatherapi-jqcr.onrender.com/*
+🔗 **[Live Demo Link](#)** *(https://weatherapi-jqcr.onrender.com/)*
 
 ### Deployment Options:
 - [Render](https://render.com/) - Recommended for this project
